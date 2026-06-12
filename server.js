@@ -13,4 +13,4 @@ fs.readFile("./text.md", async (err, data) => {
   });
 });
 
-console.log("main");
+console.log("heyy");
