@@ -12,3 +12,5 @@ fs.readFile("./text.md", async (err, data) => {
     console.log(err);
   });
 });
+
+console.log("main");
