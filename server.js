@@ -1,5 +1,7 @@
 import fs from "fs";
 
+console.log("starttt");
+
 fs.readFile("./text.md", async (err, data) => {
   if (err) {
     console.log("error occured! ", err);
